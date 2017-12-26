@@ -7,7 +7,6 @@ qxgl.views.qxdjMainViewController = function() {
     var base = {};
 
     me.getView = function() {
-        console.log("qxdj main view controller getView called!");
         if (me.view == null) {
 			me.view = new qxgl.views.qxdjMainView({
 				controller : me

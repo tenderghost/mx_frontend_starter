@@ -1,9 +1,14 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "module": "system",
+        "module": "commonjs",
         "allowJs": false,
         "removeComments": true,
-        "strict": true
-    }
+        "strict": true,
+        "noImplicitAny": true
+    },
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
 }
