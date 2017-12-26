@@ -1,0 +1,27 @@
+{
+  "name": "mx_frontend_starter",
+  "version": "1.0.0",
+  "description": "A simple project demostrate how to use mx framework.",
+  "main": "index.js",
+  "dependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenderghost/mx_frontend_starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenderghost/mx_frontend_starter/issues"
+  },
+  "homepage": "https://github.com/tenderghost/mx_frontend_starter#readme"
+}
